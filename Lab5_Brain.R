@@ -1,9 +1,3 @@
-#Lab 5 jan 31 2025
-
-
-data=read.csv("/home/ibab/R/Lab5/Heart.csv")
-print(data)
-
 #reading the file
 #1)
 data=read.csv("~/Desktop/biostat/BrainCancer.csv", header=TRUE)
@@ -55,3 +49,4 @@ print(new_df)
 
 
 write.csv(ind, file = "~/Desktop/biostat/lab4_female_BrainCancer.csv", row.names = FALSE) #ind df containing the rows named 'Female' was created before
+
