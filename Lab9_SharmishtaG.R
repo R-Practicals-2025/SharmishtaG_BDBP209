@@ -419,7 +419,7 @@ plot_uniform_cpdf(1, 2, 1.5)  # Shade region under CPDF up to x = 1.5
 
 
 
-# Ex 11,12,12
+# Ex 11,12,13
 
 exponential_pdf <- function(x, lambda) {
   result <- numeric(length(x))
