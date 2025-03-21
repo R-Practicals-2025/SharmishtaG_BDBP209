@@ -1,0 +1,57 @@
+Chest
+Sternum (1 or 3)
+Ribs (24, in pairs)
+Cervical ribs 
+
+Spine
+Cervical vertebrae (7)
+Thoracic vertebrae (12)
+Lumbar vertebrae (5)
+Sacrum (5)
+Coccyx (1)
+
+Skull
+Cranial Bones
+Occipital bone
+Parietal bones (2)
+Frontal bone
+Temporal bones (2)
+Ethmoid bone
+Sphenoid bone
+Facial Bones
+Lacrimal bones (2)
+Maxillae (2)
+Nasal bones (2)
+Palatine bones (2)
+Zygomatic bones (2)
+Inferior nasal concha (2)
+Mandible
+Hyoid Bone
+Vomer
+
+Ear Bones
+Malleus (2)
+Incus (2)
+Stapes (2)
+Pectoral Girdle
+Clavicle (2)
+Scapula (2)
+
+Arms
+Humerus (2)
+Radius (2)
+Ulna (2)
+Carpals (16)
+Phanages (28)
+Metacarpals (10)
+Pelvic Girdle
+Hip bones (2)
+
+Legs
+Femur (2)
+Tibia (2)
+Fibula (2)
+Patella (2)
+Tarsals (14)
+Phalanges (28)
+Metatarsals (10)
